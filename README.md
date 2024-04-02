@@ -1,1 +1,1 @@
-# Rench
+# Rench BMSTU hometask
